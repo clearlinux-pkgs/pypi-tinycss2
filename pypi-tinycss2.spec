@@ -4,7 +4,7 @@
 #
 Name     : pypi-tinycss2
 Version  : 1.1.1
-Release  : 8
+Release  : 9
 URL      : https://files.pythonhosted.org/packages/1e/5a/576828164b5486f319c4323915b915a8af3fa4a654bbb6f8fc8e87b5cb17/tinycss2-1.1.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/1e/5a/576828164b5486f319c4323915b915a8af3fa4a654bbb6f8fc8e87b5cb17/tinycss2-1.1.1.tar.gz
 Summary  : A tiny CSS parser
